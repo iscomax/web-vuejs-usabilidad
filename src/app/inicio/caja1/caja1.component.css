@@ -1,0 +1,73 @@
+.logo{
+    float: right;
+}
+.row{
+    margin-top: 50px;
+    
+}
+p{
+    font-size: 3.2em;
+    color:#34495e;
+  font-weight: lighter;
+}
+
+.boton1{
+    margin: 1em 0;
+    margin-right: 0px;
+font-size: 1.05em;
+font-weight: 600;
+letter-spacing: 0.1em;
+min-width: 8em;
+text-align: center;
+padding: 0.75em 2em;
+border-radius: 2em;
+display: inline-block;
+color: #fff;
+background-color: #4fc08d;
+transition: all 0.15s ease;
+box-sizing: border-box;
+border: 1px solid #4fc08d;
+height: 50px;
+}
+a{
+    text-decoration: none;
+}
+ .boton2{
+    margin: 1em 0;
+    margin-right: 0px;
+font-size: 1.05em;
+font-weight: 600;
+letter-spacing: 0.1em;
+min-width: 8em;
+text-align: center;
+padding: 0.75em 2em;
+border-radius: 2em;
+display: inline-block;
+color: #4fc08d;
+background-color: #fff;
+transition: all 0.15s ease;
+box-sizing: border-box;
+border: 1px solid #4fc08d;
+height: 50px;
+ }
+ .boton3{
+    margin: 1em 0;
+    margin-right: 0px;
+font-size: 1.05em;
+font-weight: 600;
+letter-spacing: 0.1em;
+min-width: 8em;
+text-align: center;
+padding: 0.75em 2em;
+border-radius: 2em;
+display: inline-block;
+color: #7f8c8d;
+background-color: #f6f6f6;
+transition: all 0.15s ease;
+box-sizing: border-box;
+border: 1px solid;
+border-color: #f6f6f6;
+height: 50px;
+ }
+
+

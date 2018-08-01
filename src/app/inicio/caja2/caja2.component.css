@@ -1,0 +1,22 @@
+h3{
+    font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+img{
+    margin-left: 490px;
+}
+p{
+    text-align: center;
+    font-size: 16px;
+    color:  #7f8c8d;
+}
+
+h2{
+    color: #4fc08d;
+    text-align: center;
+    font-size: 25px;
+}
+.row{
+    margin-top: 50px;
+}

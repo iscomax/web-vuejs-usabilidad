@@ -1,0 +1,53 @@
+.container-fluid{
+    background-color: #f6f6f6;
+}
+
+
+h3 , p {
+    color: #999;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+}  
+
+table{
+   
+    width: 50% ;
+    margin-top: 10px;
+    
+}
+
+ .logos2{
+     width: 120px;
+     margin-top: 20px;
+ }
+.logos1{
+    width: 160px;
+    margin-top: 25px;
+}
+.especial{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logos3{
+    margin-left: 90px;
+}
+
+.boton{
+    margin-top: 40px;
+font-size: 0.9em;
+font-weight: 700;
+width: auto;
+background-color: transparent;
+color: #42b983;
+border: 1px solid #4fc08d;
+padding: 0.75em 2em;
+border-radius: 2em;
+}
+a{
+    text-decoration: none;
+}
